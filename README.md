@@ -1,5 +1,5 @@
-# Flare Client
-### **Flare Client is a C# External Utility for Minecraft Bedrock Edition :sunglasses:** 
+# Flare Client V2
+### **Flare Client V2 is a C# External Utility for Minecraft Bedrock Edition :sunglasses:** 
 
 #### Developers:
 
