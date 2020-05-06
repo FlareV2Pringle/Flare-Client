@@ -16,7 +16,7 @@
 - OKuchi/Inferno
 - thatlastpringle
 ```
-# Latest update
+# Latest update V1
 ```
--
+- Bug fixes, teleport window, new sliders
 ```
