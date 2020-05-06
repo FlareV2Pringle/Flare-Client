@@ -4,6 +4,9 @@ using System;
 using System.Drawing;
 using System.Timers;
 
+// this shit needs remvoed or edited to actually work without killing 6000% of your non-existant CPU
+// Pringle
+
 namespace Flare_Sharp.ClientBase.Modules.Modules
 {
     public class RainbowUI : VisualModule
