@@ -1,4 +1,4 @@
-[![Download the client](https://img.shields.io/badge/download-client-brightgreen?style=for-the-badge "Download the client")]
+![Download the client](https://img.shields.io/badge/download-client-brightgreen?style=for-the-badge "Download the client")
 ![Last Commit](https://img.shields.io/github/last-commit/ElectronDevs/Flare-Client-v2?style=for-the-badge)
 
 # Flare Client
