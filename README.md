@@ -1,10 +1,22 @@
-# Flare Client V2
-### **Flare Client V2 is a C# External Utility for Minecraft Bedrock Edition :sunglasses:** 
+[![Download the client](https://img.shields.io/badge/download-client-brightgreen?style=for-the-badge "Download the client")]
+![Last Commit](https://img.shields.io/github/last-commit/ElectronDevs/Flare-Client-v2?style=for-the-badge)
 
-#### Developers:
+# Flare Client
+### **Flare Client is a C# External Utility for Minecraft Bedrock Edition (Previously written in C++) :sunglasses:** 
 
+# V1 Developers
 ```
-● EchoHackCmd
-● DisabledMallis
+- Echohackcmd
+- ASM
 ```
- 
+
+# V2 Developers
+```
+- C.C.C.P.
+- OKuchi/Inferno
+- thatlastpringle
+```
+# Latest update
+```
+-
+```
