@@ -4,11 +4,6 @@
 # Flare Client
 ### **Flare Client is a C# External Utility for Minecraft Bedrock Edition (Previously written in C++) :sunglasses:** 
 
-# V1 Developers
-```
-- Echohackcmd
-- ASM
-```
 
 # V2 Developers
 ```
@@ -16,6 +11,13 @@
 - OKuchi/Inferno
 - thatlastpringle
 ```
+
+# V1 Developers
+```
+- Echohackcmd
+- ASM
+```
+
 # Latest update V1
 ```
 - Bug fixes, teleport window, new sliders
